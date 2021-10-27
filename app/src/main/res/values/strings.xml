@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SibaenMidterm</string>
+
+    <string name="txt_name">Ryan Clay</string>
+    <string name="txt_subtext">Menu:</string>
+
+    <string name="txt_label_01">Name:</string>
+    <string name="txt_label_01_hint">eq. Jose Rizal</string>
+    <string name="txt_label_02">Email:</string>
+    <string name="txt_label_02_hint">eq. Rizal123@yahoo.com</string>
+    <string name="txt_label_03">Mobile Number:</string>
+    <string name="txt_label_03_hint">eq. 09308472315</string>
+    <string name="txt_label_04">Address:</string>
+    <string name="txt_label_04_hint">eq. House Num./Street/City</string>
+    <string name="txt_label_05">Hobby:</string>
+    <string name="txt_label_05_hint">eq. Basketball, Piano, etc.</string>
+
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_save">Save</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="txt_title_01">-HOME PAGE-</string>
+    <string name="txt_title_02">-PROFILE PAGE-</string>
+    <string name="txt_title_03">-CREATE EVENT PAGE-</string>
+    <string name="txt_title_04">-SEND MESSAGE PAGE-</string>
+</resources>

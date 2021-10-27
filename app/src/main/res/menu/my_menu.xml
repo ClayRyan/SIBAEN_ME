@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Menu:"
+        android:background="@color/theme_02">
+        <menu>
+            <item
+                android:id="@+id/id_home"
+                android:icon="@drawable/test_profile"
+                android:title="Home"/>
+            <item
+                android:id="@+id/id_profile"
+                android:icon="@drawable/test_profile"
+                android:title="Profile"/>
+            <item
+                android:id="@+id/id_createEvent"
+                android:icon="@drawable/test_profile"
+                android:title="Create Event"/>
+            <item
+                android:id="@+id/id_sendMessage"
+                android:icon="@drawable/test_profile"
+                android:title="Send Message"/>
+        </menu>
+    </item>
+</menu>
